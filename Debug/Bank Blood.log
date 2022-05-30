@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\fileRecipient and fileDonor.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\fileRecipient and fileDonor.cpp(62,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\fileRecipient and fileDonor.cpp(128,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\fileRecipient and fileDonor.cpp(131,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\fileBlood_information.cpp(51,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\fileBlood_information.cpp(54,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\main.cpp(275,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\main.cpp(292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\main.cpp(317,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\main.cpp(406,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\main.cpp(600,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\main.cpp(582,12): warning C4101: 'FD': unreferenced local variable
+C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\main.cpp(680,20): warning C4018: '<': signed/unsigned mismatch
+  Bank Blood.vcxproj -> C:\Users\User\Downloads\Bank Blood-20220516T235621Z-001\Bank Blood\Debug\Bank Blood.exe
